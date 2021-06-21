@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![JK Lim's GitHub stats](https://github-readme-stats.vercel.app/api?username=lifository&show_icons=true&count_private=true)
+![JK Lim's GitHub stats](https://github-readme-stats.vercel.app/api?username=lifository&show_icons=true&count_private=true&include_all_commits=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lifository&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
