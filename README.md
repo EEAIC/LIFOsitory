@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lifository&langs_count=9&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![JK Lim's GitHub stats](https://github-readme-stats.vercel.app/api?username=lifository&show_icons=true&count_private=true&include_all_commits=true)
+![JK Lim's GitHub stats](https://github-readme-stats.vercel.app/api?username=lifository&show_icons=true&include_forks=true&count_private=true&include_all_commits=true)
