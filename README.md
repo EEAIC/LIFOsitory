@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **LIFOsitory/LIFOsitory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![JK Lim's GitHub stats](https://github-readme-stats.vercel.app/api?username=lifository&show_icons=true&count_private=true)
